@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+}
+
+.red { 
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+    position: relative;
+    top:30px
+}
+
+.yellow {
+    background-color: yellow;
+   position: relative; 
+   top: 60px
+}
+
+.paragraph-vertical {
+    position: relative;
+    left :20px
+}
