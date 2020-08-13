@@ -1,0 +1,57 @@
+#icon{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+}
+body{
+    width:100%;
+    margin:0px
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    margin:0px;
+    flex-wrap: wrap;
+}
+.button:hover{
+    background-color: yellowgreen;
+    color:blue;
+    text-align:center;
+    transform: scale(1.3);
+}
+#sale{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Quicksand', sans-serif;
+    background-color: whitesmoke;
+    margin-left: 70px;
+    margin-right: 70px;
+    width:90% ;
+}
+#khuyenmai{
+    font-size: xx-large;
+    text-align: center;
+}
+#anhkhuyenmai{
+    display: block;
+    margin-left: 120px;
+}
+#sale1{
+    border:2px solid BLUE ; 
+    margin-top: 50px;
+}
+#h2{
+    color:red; font-size: xx-large;text-align: center;
+}
+#banchay{
+    border:2px solid greenyellow ; margin-top: 50px;
+}
+#msi{
+    border:2px solid red ; margin-top: 50px
+}
